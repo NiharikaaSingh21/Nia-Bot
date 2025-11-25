@@ -50,5 +50,5 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+https://github.com/NiharikaaSingh21/Nia-Bot.git
+cd Nia-Bot
